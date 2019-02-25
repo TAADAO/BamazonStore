@@ -8,5 +8,7 @@ To make sure I didn't get a ding for an overdue assignment, I've gone ahead and 
 
 The portfolio has been updated though, and the new Bamazon link can be found here: 
 
-https://taadao.github.io/BamazonStore/
+https://taadao.github.io/UpdatedPortfolio/portfolio.html
+
+
 
