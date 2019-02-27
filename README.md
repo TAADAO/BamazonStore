@@ -6,6 +6,12 @@ A mishap with the mySQL app caused some delays, but the major issue I ran into w
 
 To make sure I didn't get a ding for an overdue assignment, I've gone ahead and pushed the untested code, but will continue to work on a resolution, and once I fix this and get it working, I will include a video showing the successful operation. 
 
+UPDATE: SUCCESS! Somehow the connection resolved itself (Internet connection maybe?) and I was able to test the code I wrote out which was successful. So essentially the program is a shopping app that allows you to purchase items based on ID and quantity. IF there are not enough in stock, you will be notified. If there is stock, it will calculate and confirm the purchase. 
+
+The video demo can be found at this link here: 
+
+https://www.youtube.com/watch?v=W58pGCTcsbM
+
 The portfolio has been updated though, and the new Bamazon link can be found here: 
 
 https://taadao.github.io/UpdatedPortfolio/portfolio.html
